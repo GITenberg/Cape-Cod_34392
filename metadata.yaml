@@ -1,0 +1,43 @@
+_repo: Cape-Cod_34392
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Johnson, Clifton
+    birthdate: 1865
+    deathdate: 1940
+    gutenberg_agent_id: '36996'
+    url: http://www.gutenberg.org/2009/agents/36996
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thoreau, Henry David
+    alias: Thoreau, Henry D. (Henry David)
+    birthdate: 1817
+    deathdate: 1862
+    gutenberg_agent_id: '54'
+    url: http://www.gutenberg.org/2009/agents/54
+    wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
+description: This new paperback edition of Henry D. Thoreau's compelling account of
+  Cape Cod contains the complete, definitive text of the original. Introduced by American
+  poet and literary critic Robert Pinsky--himself a resident of Cape Cod--this volume
+  contains some of Thoreau's most beautiful writings. In the plants, animals, topography,
+  weather, and people of Cape Cod, Thoreau finds "another world" Encounters with the
+  ocean dominate this book, from the fatal shipwreck of the opening chapter to his
+  later reflections on the Pilgrims' landing and reconnaissance. Along the way, Thoreau
+  relates the experien.
+gutenberg_issued: '2010-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34392'
+  lccn: 08022336
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F001'
+- !lcsh 'Cape Cod (Mass.) -- Description and travel'
+title: Cape Cod
+url: http://www.gutenberg.org/ebooks/34392
