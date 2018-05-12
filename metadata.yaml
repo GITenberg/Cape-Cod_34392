@@ -27,6 +27,8 @@ description: This new paperback edition of Henry D. Thoreau's compelling account
   ocean dominate this book, from the fatal shipwreck of the opening chapter to his
   later reflections on the Pilgrims' landing and reconnaissance. Along the way, Thoreau
   relates the experien.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34392#Cape-Cod
 gutenberg_issued: '2010-11-21'
 gutenberg_type: Text
 identifiers:
